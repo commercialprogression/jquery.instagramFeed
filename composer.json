@@ -1,6 +1,6 @@
 {
   "name": "symmetri/jqueryinstagramfeed",
-  "type": "drupal-library",
+  "type": "library",
   "description": "Composer wrapper for jquery.instagramFeed library",
   "keywords": ["javascript", "jquery", "plugin", "social-media", "instagram"],
   "license": "MIT",
