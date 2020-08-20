@@ -1,12 +1,6 @@
-# jquery.instagramFeed [![Build Status](https://travis-ci.com/jsanahuja/jquery.instagramFeed.svg?branch=master)](https://travis-ci.com/jsanahuja/jquery.instagramFeed)
-Instagram Feed without using the instagram API
+# jquery.instagramFeed
 
-Try [InstagramFeed](https://github.com/jsanahuja/InstagramFeed), the same without jQuery.
+This is a mere copy of the [jquery.instagramFeed](https://github.com/jsanahuja/jquery.instagramFeed) made for the only purpose to serve it via `$ composer install` on Packagist.org
 
-## Documentation
+All the issues and the questions should be referred on the original developer.
 
-[Full documentation and examples here](https://www.sowecms.com/demos/jquery.instagramFeed/index.html "documentation")
-
-## Contributing
-
-Read and follow the [CONTRIBUTING.md](./CONTRIBUTING.md) before sending any pull request.
