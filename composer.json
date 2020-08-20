@@ -1,0 +1,17 @@
+{
+  "name": "symmetri/jquery-instagramfeed",
+  "type": "drupal-library",
+  "description": "Composer wrapper for jquery.instagramFeed library",
+  "keywords": ["javascript", "jquery", "plugin", "social-media", "instagram"],
+  "license": "MIT",
+  "version": "1.3.2",
+  "homepage": "https://github.com/commercialprogression/jquery.instagramFeed",
+  "authors": [
+    {
+      "name": "Symmetri Marketing",
+      "email": "webmaster@symmetrimarketing.com",
+      "homepage": "https://symmetrimarketing.com",
+      "role": "Developer"
+    }
+  ]
+}
